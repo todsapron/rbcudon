@@ -9,6 +9,6 @@
 
 4.โปรแกรม Virtual Robotics Toolkit
 
-*สำหรับโปรแกรม Virtual Robotics Toolkit จะต้องใส่ License Key คือ 4131-1102-8577-5975 จะสามารถใช้โปรแกรมได้ฟรี 45 วัน
+*สำหรับโปรแกรม Virtual Robotics Toolkit จะต้องใส่ License Key คือ 4131-1102-8577-5975
 
 ![Capture](https://user-images.githubusercontent.com/11527370/161790985-0f48db9d-71f5-40f3-94da-f918d501ef49.PNG)
